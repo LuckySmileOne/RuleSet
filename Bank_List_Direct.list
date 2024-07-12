@@ -1,0 +1,24 @@
+# Bank List DIRECT
+
+# ZaBank
+DOMAIN-SUFFIX,za.group
+IP-CIDR,170.33.0.149/8,no-resolve
+
+# iFAST Global Bank
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-KEYWORD,ifastgb
+
+# Wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-KEYWORD,wise
+
+# livibank
+DOMAIN-SUFFIX,livibank.com
+DOMAIN-KEYWORD,livi
+
+# OCBC
+DOMAIN-KEYWORD,ocbc
+DOMAIN-SUFFIX,ocbc.com
+
+# hkcsl
+DOMAIN-SUFFIX,hkcsl.com
