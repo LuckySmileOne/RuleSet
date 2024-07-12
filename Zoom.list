@@ -1,0 +1,7 @@
+# Zoom meeting
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zpns.zoom.us
+DOMAIN-SUFFIX,cloud.zoom.us
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomgov.com
+IP-CIDR,170.114.0.0/16
