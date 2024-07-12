@@ -3,6 +3,8 @@
 # ZaBank
 DOMAIN-SUFFIX,za.group
 IP-CIDR,170.33.0.149/8,no-resolve
+DOMAIN-SUFFIX,zaticdn.com
+DOMAIN-KEYWORD,zaticdn
 
 # iFAST Global Bank
 DOMAIN-SUFFIX,ifastgb.com
