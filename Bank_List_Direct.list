@@ -24,3 +24,13 @@ DOMAIN-SUFFIX,ocbc.com
 
 # hkcsl
 DOMAIN-SUFFIX,hkcsl.com
+
+# BOCHK
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,boc.com.hk
+DOMAIN-KEYWORD,bochk.com
+DOMAIN-KEYWORD,bochk
+
+# HSBC HK
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-KEYWORD,hsbchk.com
