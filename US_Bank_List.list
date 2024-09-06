@@ -5,5 +5,23 @@ DOMAIN-SUFFIX,capitalone.com
 DOMAIN-KEYWORD,capitalone
 
 # Amex
+DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-KEYWORD,americanexpress
 
 # Chase
+DOMAIN-SUFFIX,chase.com
+DOMAIN-KEYWORD,chase
+
+# US HSBC
+DOMAIN-SUFFIX,us.hsbc.com
+DOMAIN-SUFFIX,hsbc.com
+
+# US Bank
+DOMAIN-SUFFIX,usbank.com
+DOMAIN-KEYWORD,usbank
+
+# US citi bank
+DOMAIN-SUFFIX,citibank.com
+DOMAIN-SUFFIX,citigroup.com
+DOMAIN-SUFFIX,citi-us.com
+DOMAIN-SUFFIX,citi.com
