@@ -34,3 +34,7 @@ DOMAIN-KEYWORD,bochk
 # HSBC HK
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-KEYWORD,hsbchk.com
+
+# Naixi
+DOMAIN-SUFFIX,cdn.primehelix.co
+DOMAIN-KEYWORD,primehelix.co
