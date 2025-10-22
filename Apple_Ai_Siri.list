@@ -1,1 +1,12 @@
+# https://support.apple.com/zh-cn/101555
 
+#  Apple Intelligence、Siri
+
+
+# DOMAIN-SUFFIX,smoot.apple.com
+# DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-KEYWORD,apple-relay
