@@ -1,0 +1,24 @@
+# American_communications_carrier
+# T-Mobile
+DOMAIN-KEYWORD,t-mobile
+DOMAIN-KEYWORD,tmobile
+DOMAIN-SUFFIX,t-mobile.com
+
+# Redpocket 
+DOMAIN-KEYWORD,redpocket
+DOMAIN-SUFFIX,redpocket.com
+
+# tello
+DOMAIN-KEYWORD,tello
+DOMAIN-SUFFIX,tello.com
+
+# google voice
+DOMAIN-SUFFIX,voice.google.com
+IP-CIDR,142.251.0.0/16
+IP-CIDR,142.250.0.0/16
+
+# ultra mobile
+DOMAIN-SUFFIX,www.ultramobile.com
+DOMAIN-KEYWORD,ultramobile
+IP-CIDR,172.64.0.0/16
+IP-CIDR,104.18.0.0/16
