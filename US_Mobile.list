@@ -13,12 +13,9 @@ DOMAIN-KEYWORD,tello
 DOMAIN-SUFFIX,tello.com
 
 # google voice
+DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,voice.google.com
-IP-CIDR,142.251.0.0/16
-IP-CIDR,142.250.0.0/16
 
 # ultra mobile
 DOMAIN-SUFFIX,www.ultramobile.com
 DOMAIN-KEYWORD,ultramobile
-IP-CIDR,172.64.0.0/16
-IP-CIDR,104.18.0.0/16
