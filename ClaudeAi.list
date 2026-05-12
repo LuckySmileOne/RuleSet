@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,chat.claude.ai
 DOMAIN-SUFFIX,api.claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
+IP-CIDR,160.79.104.10/32,no-resolve
